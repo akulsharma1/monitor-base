@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "group_name": "test",
+            "webhook_url": "abc",
+            "profile_picture": "abc",
+            "stores": ["polymarket"]
+        }
+    ]
+}
